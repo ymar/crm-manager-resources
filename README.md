@@ -7,7 +7,13 @@ https://medium.com/swlh/how-to-track-customer-acquisition-9d04b903535
 
 https://medium.com/perspectives-volume-4/moment-mapping-the-customer-experience-f2e7814b10c4
 
+http://www.romanpichler.com/blog/elements-definition-product-strategy/
+
 ## Project Management
+
+http://www.scrumhub.com/kanban-fundamentals/
+
+https://www.mindtools.com/pages/article/sales-skills.htm
 
 ## Technology
 
