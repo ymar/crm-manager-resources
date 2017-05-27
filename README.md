@@ -3,6 +3,9 @@
 
 
 ## Business
+https://medium.com/swlh/how-to-track-customer-acquisition-9d04b903535
+
+https://medium.com/perspectives-volume-4/moment-mapping-the-customer-experience-f2e7814b10c4
 
 ## Project Management
 
