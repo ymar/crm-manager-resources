@@ -29,7 +29,13 @@ http://foundation.zurb.com/emails/email-templates.html
 
 https://mjml.io/
 
-## User Experience
+## Inspiration
+
+https://reallygoodemails.com/
+
+http://www.goodemailcopy.com/
+
+http://www.emaildrips.com/
 
 ## Data & Testing
 
