@@ -37,5 +37,7 @@ http://www.goodemailcopy.com/
 
 http://www.emaildrips.com/
 
-## Data & Testing
+## Personalisation & Relevance
+
+https://medium.com/@artemisaeb/how-relevant-is-personalization-c5bfe5907c9e
 
