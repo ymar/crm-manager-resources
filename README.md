@@ -3,7 +3,10 @@
 
 
 ## Business
-https://medium.com/swlh/how-to-track-customer-acquisition-9d04b903535
+
+
+[How to track customer acquisition](https://medium.com/swlh/how-to-track-customer-acquisition-9d04b903535)
+
 
 https://medium.com/perspectives-volume-4/moment-mapping-the-customer-experience-f2e7814b10c4
 
@@ -41,3 +44,6 @@ http://www.emaildrips.com/
 
 https://medium.com/@artemisaeb/how-relevant-is-personalization-c5bfe5907c9e
 
+## Push Notifications
+
+https://support.urbanairship.com/hc/en-us/articles/213491643-What-are-the-Maximum-Characters-for-Push-Notifications-
