@@ -4,7 +4,6 @@
 
 ## Business
 
-
 [How To Track Customer Acquisition](https://medium.com/swlh/how-to-track-customer-acquisition-9d04b903535)
 
 [Moment Mapping The Customer Experience](https://medium.com/perspectives-volume-4/moment-mapping-the-customer-experience-f2e7814b10c4)
@@ -46,3 +45,10 @@
 ## Push Notifications
 
 [What are the Maximum Characters for Push Notifications?](https://support.urbanairship.com/hc/en-us/articles/213491643-What-are-the-Maximum-Characters-for-Push-Notifications)
+
+
+
+## SQL
+
+[What arA Guide to SQL Naming Conventions](https://blog.jooq.org/2019/10/29/a-guide-to-sql-naming-conventions/)
+
